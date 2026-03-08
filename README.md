@@ -8,14 +8,6 @@ Building open-source tools for digital cash, privacy, and low-connectivity envir
 
 Co-founder of [Cuba Bitcoin](https://github.com/Cuba-Bitcoin)
 
-You can find me at:
-
-𝕏 [Forte11Cuba](https://twitter.com/Forte11Cuba)
-
-[Nostr](https://primal.net/p/npub1f0rtesc8yd8utjhpgktlltv4t2rftxd5kmkagt5kymt8946pqf7qe90snx)
-
-Telegram: [Forte11](https://t.me/Forte11)
-
 If you want to invite me a coffee ☕ thanks!
 
 You can send sats to:
