@@ -7,6 +7,7 @@ Building open-source tools for digital cash, privacy, and low-connectivity envir
 Co-founder of Cuba Bitcoin.
 
 Creator of:
+
 ⚡ https://lachispa.me — Lightning wallet  
 🥜 https://elcaju.me — Cashu wallet
 
